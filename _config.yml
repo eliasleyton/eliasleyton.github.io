@@ -24,7 +24,7 @@ github_username:  eliasleyton
 
 # Build settings
 markdown: kramdown
-theme: simplest
+theme: minima
 gems:
   - jekyll-feed
 exclude:
